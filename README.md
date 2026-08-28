@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**🛡️ Shakir Bhadarka
+🛡️ Shakir Bhadarka
 
 "Cybersecurity Student | Ethical Hacking | Web Security"
 
