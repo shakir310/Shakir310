@@ -71,6 +71,9 @@ My goal is to continuously improve my cybersecurity skills through hands-on labs
 
 🌐 Connect With Me
 
+🔗 Linkdin 
+https://www.linkedin.com/in/shakir-bhadarka-0b5540428?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
 💻 GitHub: @shakir310
 
 🌐 Portfolio: shakir310-cyberportfolio.netlify.app
