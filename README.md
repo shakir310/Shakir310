@@ -76,7 +76,7 @@ https://www.linkedin.com/in/shakir-bhadarka-0b5540428?utm_source=share_via&utm_c
 
 💻 GitHub: @shakir310
 
-🌐 Portfolio: shakir310-cyberportfolio.netlify.app
+🌐 Portfolio: https://shakir310-cyberportfolio.netlify.app
 
 ---
 
